@@ -21,3 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## **Proje Resmi**
 
+![kodluyoruzprojeresmi](https://user-images.githubusercontent.com/56025084/114533857-07b01480-9c57-11eb-811c-4ce78f5013cd.png)
